@@ -8,4 +8,4 @@
 
 10 Juni 2026
 -Masuk 08:00
--Keluar
+-Keluar 17:00
